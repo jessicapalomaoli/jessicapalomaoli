@@ -5,4 +5,4 @@
 - 📚 Atualmente estou estudando JS, HTML e CSS
 - 📍 Sou de Paulista, Pernambuco 
 - 🎓 Formada em Publicidade.
--  ⌨  Atualmente estudo no SENAI/ PE curso de Front-end
+-  ⌨  Estudando Front-end no Senai-PE
